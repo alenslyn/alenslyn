@@ -16,6 +16,4 @@
 </p>
 
 
-## 📊 Github Status
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenslyn&layout=compact"><p>
